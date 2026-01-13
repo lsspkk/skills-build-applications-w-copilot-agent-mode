@@ -40,5 +40,9 @@
       "label": "octofit-api",
       "requireLocalPort": true
       }
+
+    },
+    "containerEnv": {
+        "CODESPACE_NAME": "literate-space-palm-tree-p7jpwv454qf7q77"
     }
 }
